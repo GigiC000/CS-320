@@ -1,2 +1,9 @@
 # CS-320
- Project Files for GSS App
+Project Files for GSS App
+
+Project Reflection:
+I can ensure that my code, program, or software is functional and secure by using automated testing and following solid coding practices. In this project, the files I created show how unit tests can be used to verify that each part of the program works correctly and to catch errors early. Writing tests for both normal cases and edge cases helps improve reliability and makes it easier to trust the output of the program. I can also improve security by validating inputs, handling errors properly, and making sure the program doesn’t expose sensitive information through poor design or messages. Overall, these files demonstrate how software testing, automation, and quality assurance work together to improve both functionality and reliability.
+
+I can interpret user needs by breaking requirements down into smaller, testable pieces. Instead of only focusing on the big picture, I can translate requirements into specific behaviors the program should follow. Writing unit tests based on those requirements helps connect user expectations directly to how the program is built and verified. This approach makes it easier to stay aligned with what the user actually needs while also making sure those needs are met through testing. This project highlights how different testing strategies can be applied depending on the requirement and situation.
+
+I can approach designing software by focusing on structure, simplicity, and testability from the beginning. Breaking the program into smaller, modular components makes it easier to manage, test, and update later on. During this project, organizing code into separate files and building tests around them showed how design and testing work hand in hand. I can also design with automation in mind so that the code is easier to validate and maintain as it grows. Overall, this reflects how I can combine software design, testing, and automation to build programs that are functional, organized, and easier to maintain over time.
